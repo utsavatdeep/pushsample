@@ -1,8 +1,8 @@
 # Winter2019-20-CBS1002-1006-Creating-Monthly-Calendar
 <h2>Winter2019-20-CBS1002-1006-Creating Monthly Calendar</h2></br>
 <h4>TEAM MEMBERS:</h4><br/>
-*SAIKRISHNA S(Main Developer)<br/>
-*UTSAV DEEP(Modifications in Actual code and Other Additions) <br/>
+*UTSAV DEEP(Main Developer)<br/>
+*SAIKRISHNA S(Modifications in Actual code and Other Additions) <br/>
 *K RISHIKA(Important Suggestions)<br/>
 *ALEX THOMAS(Classes and other Suggestions)<br/>
 *RAJA VARA SIDHI VERMA(General Flow of the program and header files suggestions)<br/>
